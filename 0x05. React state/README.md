@@ -1,1 +1,1 @@
-# 0x05. React stat
+# 0x05. React state
