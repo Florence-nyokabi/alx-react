@@ -42,3 +42,36 @@ mandatory
 27. Memoized selectors: update the UI
 28. Memoized selectors: update the test suite
 29. Container/Component
+
+
+0x09. React Redux Connectors and Providers
+Front-end JavaScript ES6 React
+
+By: Johann Kerbrat, Engineering Manager at Uber Works
+Weight: 1
+Project will start Mar 2, 2023 6:00 AM, must end by Mar 9, 2023 6:00 AM
+Checker was released at Mar 4, 2023 12:00 AM
+Manual QA review must be done (request it when you are done with the project)
+An auto review will be launched at the deadline
+redux
+
+Resources
+Read or watch:
+
+Redux CreateStore
+Redux Connect
+Redux Provider
+Redux Middleware
+Redux Thunk
+Redux devtools
+Redux Reselect
+Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+Redux connectors and how to use them
+The different functions you can pass to a connector (mapStateToProps, - mapDispatchToPros)
+How to map an action creator to a component using a connector
+How to map an async action creator to a component with Redux Thunk
+What Redux Providers are and how to set up your app’s store
+How you can improve a connector’s performance using Reselect
+How to use Redux’s dev tools to debug the state of your application
